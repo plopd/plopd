@@ -7,16 +7,19 @@ I hold a bachelor’s degree in computer science (with a major in Games Engineer
 and a master’s degree in computer science (with a major in Machine Learning & Reinforcement Learning) from Technische Universität München (TUM).
 
 If we haven't already met, you can find me here
+
 <center>
 <table>
 <tbody>
-<thead><tr><td colspan=1>
+<thead><tr><td colspan=3>
 </span>
 </td></tr></thead>
 <tr class="odd">
 <td style="text-align: center;"><a href="https://linkedin.com/in/plopd">LinkedIn</a></td>
 <td style="text-align: center;"><a href="https://plopd.github.io">Personal Blog</a></td>
 <td style="text-align: center;"><a href="https://instagram.com/s41piano">Instagram</a></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><a href="https://open.spotify.com/user/dantevertigo">Spotify</a></td>
 <td style="text-align: center;"><a href="https://twitter.com/DanielTPlop">Twitter</a></td>
 <td style="text-align: center;"><a href="https://paypal.me/plopd">PayPal Donations</a></td>
