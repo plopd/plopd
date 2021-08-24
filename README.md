@@ -9,10 +9,9 @@ and a master’s degree in computer science (with a major in Machine Learning & 
 If we haven't already met, you can find me here
 
 <center>
+  
 <table>
 <tbody>
-<thead><tr><td colspan=3>
-</span>
 </td></tr></thead>
 <tr class="odd">
 <td style="text-align: center;"><a href="https://linkedin.com/in/plopd">LinkedIn</a></td>
@@ -26,6 +25,8 @@ If we haven't already met, you can find me here
 </tr>
 </tbody>
 </table>
+
+</center>
 
 <!--
 **plopd/plopd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
