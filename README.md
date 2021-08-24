@@ -2,7 +2,9 @@
 
 My name is **Daniel Theodor Plop**. I live in München, BY.
 
-I am a Machine Learning Software Engineer. I hold a bachelor’s degree in computer science (with a major in Games Engineering), and a master’s degree in computer science (with a major in Machine Learning & Reinforcement Learning) from the Technical University of Munich (TUM).
+I am a Machine Learning Software Engineer. 
+I hold a bachelor’s degree in computer science (with a major in Games Engineering), 
+and a master’s degree in computer science (with a major in Machine Learning & Reinforcement Learning) from Technische Universität München (TUM).
 
 If we haven't already met, you can find me here
 <center>
@@ -12,10 +14,10 @@ If we haven't already met, you can find me here
 </span>
 </td></tr></thead>
 <tr class="odd">
-<td><a href="https://linkedin.com/in/plopd">LinkedIn</a></td>
-<td><a href="https://plopd.github.io">Personal Blog</a></td>
-<td><a href="https://instagram.com/s41piano">Instagram</a></td>
-<td><a href="https://open.spotify.com/user/dantevertigo">Spotify</a></td>
+<td style="text-align: center;"><a href="https://linkedin.com/in/plopd">LinkedIn</a></td>
+<td style="text-align: center;"><a href="https://plopd.github.io">Personal Blog</a></td>
+<td style="text-align: center;"><a href="https://instagram.com/s41piano">Instagram</a></td>
+<td style="text-align: center;"><a href="https://open.spotify.com/user/dantevertigo">Spotify</a></td>
 <td style="text-align: center;"><a href="https://twitter.com/DanielTPlop">Twitter</a></td>
 <td style="text-align: center;"><a href="https://paypal.me/plopd">PayPal Donations</a></td>
 </tr>
