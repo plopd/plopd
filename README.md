@@ -16,7 +16,7 @@ If we haven't already met, you can find me here
 <tr class="odd">
 <td style="text-align: center;"><a href="https://linkedin.com/in/plopd">LinkedIn</a></td>
 <td style="text-align: center;"><a href="https://plopd.github.io">Personal Blog</a></td>
-<td style="text-align: center;"><a href="https://instagram.com/s41piano">Instagram</a></td>
+<td style="text-align: center;"><a href="https://www.instagram.com/_danielplop_">Instagram</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><a href="https://open.spotify.com/user/dantevertigo">Spotify</a></td>
