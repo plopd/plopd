@@ -2,7 +2,7 @@
 
 My name is **Daniel Theodor Plop**. I currently live in München, DE-BY.
 
-I am a Machine Learning Software Engineer. 
+I am a Computer Scientist in Machine Learning. 
 I hold a bachelor’s degree in computer science (with a major in Games Engineering), 
 and a master’s degree in computer science (with a major in Machine Learning & Reinforcement Learning) from Technische Universität München (TUM).
 
