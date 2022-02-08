@@ -1,6 +1,6 @@
 ### Hello 👋,
 
-My name is **Daniel Theodor Plop**. I live in München, BY.
+My name is **Daniel Theodor Plop**. I currently live in München, BY.
 
 I am a Machine Learning Software Engineer. 
 I hold a bachelor’s degree in computer science (with a major in Games Engineering), 
