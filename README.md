@@ -21,7 +21,7 @@ If we haven't already met, you can find me here
 <tr class="even">
 <td style="text-align: center;"><a href="https://open.spotify.com/user/dantevertigo">Spotify</a></td>
 <td style="text-align: center;"><a href="https://twitter.com/DanielTPlop">Twitter</a></td>
-<td style="text-align: center;"><a href="https://paypal.me/plopd">PayPal Donations</a></td>
+<td style="text-align: center;"><a href="https://paypal.me/plopd">PayPal</a></td>
 </tr>
 </tbody>
 </table>
