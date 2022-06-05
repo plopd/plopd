@@ -1,6 +1,6 @@
 ### Hello 👋,
 
-My name is **Daniel Theodor Plop**. I currently live in München, DE-BY.
+My name is **Daniel Plop**. I currently live in Munich, DE-BY.
 
 I am a Computer Scientist in Machine Learning. 
 I hold a bachelor’s degree in computer science (with a major in Games Engineering), 
@@ -14,31 +14,19 @@ If we haven't already met, you can find me here
 <tbody>
 </td></tr></thead>
 <tr class="odd">
-<td style="text-align: center;"><a href="https://linkedin.com/in/plopd">LinkedIn</a></td>
 <td style="text-align: center;"><a href="https://plopd.github.io">Personal Blog</a></td>
 <td style="text-align: center;"><a href="https://www.instagram.com/_danielplop_">Instagram</a></td>
-</tr>
-<tr class="even">
 <td style="text-align: center;"><a href="https://open.spotify.com/user/dantevertigo">Spotify</a></td>
 <td style="text-align: center;"><a href="https://twitter.com/DanielTPlop">Twitter</a></td>
 <td style="text-align: center;"><a href="https://paypal.me/plopd">PayPal</a></td>
-</tr>
 </tbody>
 </table>
 
 </center>
 
-<!--
-**plopd/plopd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about Planning with Options [2].
+- 👯 I’m looking to collaborate on developing reinforcement learning agents for the real world which respect the standard RL framework [1].
 
-Here are some ideas to get you started:
+[1] Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[2] Wan, Y., Naik, A., & Sutton, R. (2021). Average-Reward Learning and Planning with Options. Advances in Neural Information Processing Systems, 34.
