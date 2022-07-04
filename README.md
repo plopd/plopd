@@ -1,9 +1,9 @@
 ### Hello 👋,
 
-My name is **Daniel Plop**. I currently live in Munich, DE-BY.
+My name is **Daniel Plop**.
 
-I am a Computer Scientist in Machine Learning. 
-I hold a bachelor’s degree in computer science (with a major in Games Engineering), 
+I am a Computer Scientist in Machine Learning and Reinforcement Learning. 
+I hold a bachelor’s degree in Computer Science (with a major in Games Engineering), 
 and a master’s degree in computer science (with a major in Machine Learning & Reinforcement Learning) from Technische Universität München (TUM).
 
 If we haven't already met, you can find me here
@@ -15,10 +15,6 @@ If we haven't already met, you can find me here
 </td></tr></thead>
 <tr class="odd">
 <td style="text-align: center;"><a href="https://plopd.github.io">Personal Blog</a></td>
-<td style="text-align: center;"><a href="https://www.instagram.com/_danielplop_">Instagram</a></td>
-<td style="text-align: center;"><a href="https://open.spotify.com/user/dantevertigo">Spotify</a></td>
-<td style="text-align: center;"><a href="https://twitter.com/DanielTPlop">Twitter</a></td>
-<td style="text-align: center;"><a href="https://paypal.me/plopd">PayPal</a></td>
 </tbody>
 </table>
 
